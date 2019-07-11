@@ -9,7 +9,7 @@ Description:
 3. Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
 4. Training models: xgboost and lightgbm 
 5. Postprocessing: Combination with a non-outliers model 
-6. Blending
+6. Blending: Truncated Mean 
 7. Submission
 
 Competition Website: https://www.kaggle.com/c/elo-merchant-category-recommendation
