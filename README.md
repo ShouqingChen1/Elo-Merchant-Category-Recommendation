@@ -4,13 +4,13 @@ Kaggle Competition notebooks
 
 Description:
 
-1.Data preprocesssing: Merge of historical data and new data
-2.Feature engineering: Aggregation, Interval,Interaction
-3.Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
-4.Training models: xgboost and lightgbm 
-5.Postprocessing: Combination with a non-outliers model 
-6.Blending
-7.Submission
+1. Data preprocesssing: Merge of historical data and new data
+2. Feature engineering: Aggregation, Interval,Interaction
+3. Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+4. Training models: xgboost and lightgbm 
+5. Postprocessing: Combination with a non-outliers model 
+6. Blending
+7. Submission
 
 Competition Website: https://www.kaggle.com/c/elo-merchant-category-recommendation
  
