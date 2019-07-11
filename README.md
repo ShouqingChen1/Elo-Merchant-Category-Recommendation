@@ -2,6 +2,16 @@
 
 Kaggle Competition notebooks
 
+Description:
+
+Data preprocesssing: Merge of historical data and new data
+Feature engineering: Aggregation, Interval,Interaction
+Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+Training models: xgboost and lightgbm 
+Postprocessing: Combination with a non-outliers model 
+Blending
+Submission
+
 Competition Website: https://www.kaggle.com/c/elo-merchant-category-recommendation
  
 Description: Imagine being hungry in an unfamiliar part of town and getting restaurant recommendations served up, based on your personal preferences, at just the right moment. The recommendation comes with an attached discount from your credit card provider for a local place around the corner!
