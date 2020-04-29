@@ -1,8 +1,6 @@
 # Elo-Merchant-Category-Recommendation
 
-Kaggle Competition notebooks
-
-Description:
+Notebooks' Description:
 
 1. Data preprocesssing: Merge of historical data and new data
 2. Feature engineering: Aggregation, Interval,Interaction
