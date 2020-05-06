@@ -2,13 +2,12 @@
 
 Notebooks' Description:
 
-1. Data preprocesssing: Merge of historical data and new data
-2. Feature engineering: Aggregation, Interval,Interaction
-3. Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
-4. Training models: xgboost and lightgbm 
-5. Postprocessing: Combination with a non-outliers model 
-6. Blending: Truncnorm Mean 
-7. Submission
+1. Feature engineering: Aggregation, Interval,Interaction
+2. Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
+3. Training models: xgboost and lightgbm 
+4. Postprocessing: Combination with a non-outliers model 
+5. Blending: Truncnorm Mean 
+6. Submission
 
 
 ![image](https://github.com/ShouqingChen1/Elo-Merchant-Category-Recommendation/blob/master/readmeimages/elo.png)
