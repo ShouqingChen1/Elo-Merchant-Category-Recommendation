@@ -4,7 +4,7 @@ Notebooks' Description:
 
 1. Feature engineering: Aggregation, Interval,Interaction
 2. Feature Selection: target permutation, from https://www.kaggle.com/ogrellier/feature-selection-with-null-importances
-3. Training models: lightgbm 
+3. Training models: lightgbm regression
 4. Postprocessing: Combination with a non-outliers model 
 5. Blending: Truncnorm Mean 
 6. Submission
